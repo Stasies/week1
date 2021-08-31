@@ -2,7 +2,8 @@
   "headers":{
     "/*":{
       "X-Author": "tia.nntr.wth",
-      "Access-Control-Allow-Origin": "*"
+      "Access-Control-Allow-Origin": "*",
+      "root": "build/"
     }
   }
 }
